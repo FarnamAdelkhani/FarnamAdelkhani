@@ -1,7 +1,6 @@
 ### Hi there 👋  
 
-- 🔭 I’m currently working on ... a C++ DSP lib and RealSense Comp Vision project.  
-- 🌱 I’m currently learning ... OpenCV and CUDA  
-- 👯 I’m looking to collaborate on ... Fun projects! :grin:  
-- 📫 Reach out to me via: ... [Linkedin](https://www.linkedin.com/in/farnamadelkhani/)  
+- 🔭 I’m currently working on ... autonomous vehicle and automation stuff  
+- 👯 I’m looking to collaborate on ... startup ideas  
+- 📫 Reach out to me via: ... [Linkedin](https://www.linkedin.com/in/farnamadelkhani/) or email.  
 --
